@@ -10,7 +10,7 @@ width="200"></a>
 
 <h4 align="center">An App that helps you find a job! </h4>
 
-![alt text](https://ibb.co/TrgXXD7)
+![alt text](https://ibb.co/TrgXXD7.png)
 
 
 
