@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://ibb.co/7YNHqLd.png" alt="find a job logo"
+  <a href="#"><img src="https://ibb.co/7YNHqLd" alt="find a job logo"
 width="200"></a>
   <br>
   Find A Job
