@@ -12,6 +12,10 @@ width="200"></a>
 
 ![alt text](https://i.ibb.co/CQHbDHk/homepage.jpg)
 
+<p align="center">
+  <img src="https://i.ibb.co/pnLDD6M/job-Details.jpg" width="350" title="job detailes page">
+</p>
+
 
 
 
