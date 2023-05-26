@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://ibb.co/7YNHqLd" alt="find a job logo"
+  <a href="#"><img src="https://i.ibb.co/HFp0j3f/logo.jpg" alt="find a job logo"
 width="200"></a>
   <br>
   Find A Job
@@ -10,7 +10,7 @@ width="200"></a>
 
 <h4 align="center">An App that helps you find a job! </h4>
 
-![alt text](https://ibb.co/TrgXXD7.png)
+![alt text](https://i.ibb.co/CQHbDHk/homepage.jpg)
 
 
 
